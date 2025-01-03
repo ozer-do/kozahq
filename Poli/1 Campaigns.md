@@ -1,6 +1,4 @@
-# 1 Campaigns
-
-# 1. Campaigns
+# Campaigns
 
 **What are Campaigns?**
 
