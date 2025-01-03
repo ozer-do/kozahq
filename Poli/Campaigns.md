@@ -114,5 +114,5 @@ Incorporate “formula for being a great company”
 
 - You can create value with breakthrough innovation, incremental refinement, or complex coordination. Great companies often do two of these. The very best companies do all three.
 
-![Image.jpeg](1%20Campaigns.assets/Image.jpeg)
+![Image.jpeg](Images/Image.jpeg)
 
