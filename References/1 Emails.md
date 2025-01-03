@@ -32,4 +32,3 @@ Simple but effective goal could be that an initiative update (weekly, operationa
 - Industry’s first 5G LAN specialist certification is going live on CWNP in August
 - MFD7 buzz and product reviews on “Marko Does Wireless” blog continue
 - Phase 2 channel enablement content during August: account manager sales training, BOM/TCO/ROI calculators, RFP template v2, competitive battlecards, etc.
-
