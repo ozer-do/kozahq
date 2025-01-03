@@ -1,7 +1,5 @@
 # 1 Emails
 
-# 1. Emails
-
 Simple but effective goal could be that an initiative update (weekly, operational or board) … fits into a quarter or half a page in an email… simply a copy of the text in a single slide dashboard.
 
 1. Forces you to focus on three things under a high-level goal by design. Eg. “why do we care? accelerate sales”
