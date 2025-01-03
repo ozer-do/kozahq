@@ -1,4 +1,4 @@
-# Poli - Business & Product Strategy Knowledge Base
+# Product & Growth Strategy Knowledge Base
 
 This repository is a comprehensive collection of knowledge and insights focused on:
 - Product Strategy & Positioning
