@@ -16,9 +16,17 @@ The repository is organized with a numerical prefix system (1-5) indicating diff
 4. **Operations**: Team Building, Leadership
 5. **Strategic Thinking**: Category Design, Product Philosophy, SaaS
 
-Additional standalone documents cover specific topics like company analysis, venture capital, and product development.
+### Additional Resources
+- **Standalone Documents**: Cover specific topics like company analysis, venture capital, and product development.
+- **Templates and Examples**: Include practical templates for strategy formulation and execution.
 
 ## Last Updated
 2025-01-03
 
 *Note: This is a living document that evolves with new insights and learnings in high-tech product development and business strategy.*
+
+### Contribution Guidelines
+We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
+
+### Contact
+For inquiries or feedback, please reach out to [ozerdo@gmail.com](mailto:ozerdo@gmail.com).
