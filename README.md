@@ -25,8 +25,5 @@ The repository is organized with a numerical prefix system (1-5) indicating diff
 
 *Note: This is a living document that evolves with new insights and learnings in high-tech product development and business strategy.*
 
-### Contribution Guidelines
-We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
-
 ### Contact
 For inquiries or feedback, please reach out to [ozerdo@gmail.com](mailto:ozerdo@gmail.com).
