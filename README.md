@@ -1,9 +1,5 @@
 # KOZA HQ: Consulting Services for Pipeline Growth
 
-**Scaling Early Stage Startups in B2B Through Proven GTM & Operational Models**
-
----
-
 ## Experienced Operators, Not Just Consultants
 
 ### Kaan Ersun
