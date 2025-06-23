@@ -1,4 +1,4 @@
-# Product & Growth Strategy Knowledge Base
+# Knowledge Base
 
 This repository is a comprehensive collection of knowledge and insights focused on:
 - Product Strategy & Positioning
@@ -16,7 +16,7 @@ The repository is organized with a numerical prefix system (1-5) indicating diff
 4. **Operations**: Team Building, Leadership
 5. **Strategic Thinking**: Category Design, Product Philosophy, SaaS
 
-### Additional Resources
+###  Resources
 - **Standalone Documents**: Cover specific topics like company analysis, venture capital, and product development.
 - **Templates and Examples**: Include practical templates for strategy formulation and execution.
 
