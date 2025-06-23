@@ -1,6 +1,6 @@
 # KOZA HQ: Consulting Services for Pipeline Growth
 
-**Scaling Early-Stage B2B Companies Through Proven GTM & Operational Excellence**
+**Scaling Early Stage Startups in B2B Through Proven GTM & Operational Models**
 
 ---
 
