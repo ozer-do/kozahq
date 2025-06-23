@@ -1,4 +1,4 @@
-# KOZA: Fractional Exec and Consulting for Sales Growth
+# KOZA HQ: Fractional Exec and Consulting for Sales Growth
 
 **Scaling Early-Stage B2B Companies Through Proven GTM & Operational Excellence**
 
