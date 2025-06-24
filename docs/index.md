@@ -76,9 +76,6 @@ Scalable processes, cross-functional alignment, and operational infrastructure s
 
 We're offering a complimentary strategy session to assess your current challenges and provide actionable next steps. Get in touch: 
 
-- [Kaan Ersun](https://www.linkedin.com/in/kaanersun) - 📧 [Email](mailto:kaanersun@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kaanersun)
-- [Ozer Dondurmacioglu](https://www.linkedin.com/in/ozerdo) - 📧 [Email](mailto:ozerdo@gmail.com) 
-
 | Kaan Ersun | Ozer Dondurmacioglu |
 |------------|---------------------|
 | 📧 [Email](mailto:kaanersun@gmail.com) | 📧 [Email](mailto:ozerdo@gmail.com) |
