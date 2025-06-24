@@ -27,16 +27,16 @@ We're former executives who've helped scale high-tech startups from early stages
 
 ## Common Challenges We Solve
 
-### Unpredictable Pipeline
+### 🤷 Unpredictable Pipeline
 Despite happy customers, you can't systematically capture demand and build repeatable sales processes.
 
-### Messaging Misalignment
+### 🤔 Messaging Misalignment
 Your product value isn't resonating with buyers, leading to long sales cycles and low conversion rates.
 
-### Fundraising Challenges
+### 💸 Fundraising Challenges
 Financial models lack SaaS metrics and investor-ready narratives needed for your next round.
 
-### Founder-Led Sales Bottleneck
+### 🚫 Founder Sales Dependency
 Can't scale beyond founder selling to build repeatable, predictable revenue engines.
 
 
