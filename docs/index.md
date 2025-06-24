@@ -3,6 +3,12 @@ layout: home
 title: ""
 ---
 
+# Consulting Services for Pipeline Growth
+
+We're former executives who've helped scale high-tech startups from early stages to successful exits — not just consultants. We bring hands-on operational experienc to help you build predictable growth engines that drive real pipeline.
+
+---
+
 ## Experienced Operators, Not Just Consultants
 
 ### Kaan Ersun
