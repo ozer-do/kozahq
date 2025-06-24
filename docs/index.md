@@ -3,6 +3,22 @@ layout: home
 title: ""
 ---
 
+<style>
+.site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background: white;
+  border-bottom: 1px solid #eaeaea;
+}
+.page-content {
+  padding-top: 70px;
+}
+</style>
+
+
 # Consulting Services for Pipeline Growth
 
 We're former executives who've helped scale high-tech startups from early stages to successful exits. We bring hands-on operational experience to build predictable growth engines that drive real pipeline.
