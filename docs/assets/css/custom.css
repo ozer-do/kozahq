@@ -1,36 +1,40 @@
+/* ===== Sticky Header ===== */
 .site-header {
-    position: fixed;
+    position: fixed !important;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 999; /* keeps it above other content */
-    background: white; /* prevents transparency issue */
+    z-index: 999;
+    background: white;
     border-bottom: 1px solid #eaeaea;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
   
-  .page-content {
-    padding-top: 70px; /* adjust based on header height */
+  /* Add spacing below the fixed header so content isn't overlapped */
+  body {
+    padding-top: 70px;
   }
   
+  /* ===== Footer Styling ===== */
   .site-footer {
-    text-align: center; /* center all text inside the footer */
+    text-align: center;
     padding: 20px 0;
-    background-color: #f8f8f8; /* optional: add contrast */
+    background-color: #f8f8f8;
     border-top: 1px solid #eaeaea;
   }
   
-  .site-footer .footer-content {
+  .footer-content {
     max-width: 800px;
     margin: 0 auto;
   }
   
-  .site-footer .site-title {
+  .footer-content .site-title {
     font-weight: bold;
     font-size: 1.1rem;
     margin: 0;
   }
   
-  .site-footer .site-description {
+  .footer-content .site-description {
     margin: 0;
     color: #777;
   }
