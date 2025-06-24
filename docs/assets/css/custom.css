@@ -12,3 +12,26 @@
     padding-top: 70px; /* adjust based on header height */
   }
   
+  .site-footer {
+    text-align: center; /* center all text inside the footer */
+    padding: 20px 0;
+    background-color: #f8f8f8; /* optional: add contrast */
+    border-top: 1px solid #eaeaea;
+  }
+  
+  .site-footer .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .site-footer .site-title {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin: 0;
+  }
+  
+  .site-footer .site-description {
+    margin: 0;
+    color: #777;
+  }
+  
