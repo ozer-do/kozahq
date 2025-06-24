@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: default
+layout: home
 hide_footer: true
 
 ---
