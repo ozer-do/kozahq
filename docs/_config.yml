@@ -1,16 +1,17 @@
-baseurl: "/kozahq"
-url: "https://ozer-do.github.io"
-
-theme: minima
 title: kozahq
 description: "Consulting Services for Pipeline Growth"
+
+url: "https://kozahq.com"
+baseurl: ""
+
+theme: minima
 
 minima:
   social_links: []
   feed_show: false  # <-- this line disables the feed link (custom logic)
   skin: auto
   include_css:
-    - /kozahq/assets/css/custom.css
+    - /assets/css/custom.css
 
 defaults:
   - scope:
