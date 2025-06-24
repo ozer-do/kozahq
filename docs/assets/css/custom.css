@@ -1,0 +1,14 @@
+.site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999; /* keeps it above other content */
+    background: white; /* prevents transparency issue */
+    border-bottom: 1px solid #eaeaea;
+  }
+  
+  .page-content {
+    padding-top: 70px; /* adjust based on header height */
+  }
+  
