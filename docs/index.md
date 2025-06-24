@@ -75,5 +75,7 @@ Scalable processes, cross-functional alignment, and operational infrastructure s
 ## Ready to Scale Your Growth Engine?
 
 We're offering a complimentary strategy session to assess your current challenges and provide actionable next steps. Get in touch: 
-- **Kaan Ersun:**  📧 [Email](mailto:kaanersun@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/kaanersun)
-- **Ozer Dondurmacioglu:** 📧 [Email](mailto:ozerdo@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/ozerdo)
+| Kaan Ersun | Ozer Dondurmacioglu |
+|------------|---------------------|
+| 📧 [Email](mailto:kaanersun@gmail.com) | 📧 [Email](mailto:ozerdo@gmail.com) |
+| 🔗 [LinkedIn](https://www.linkedin.com/in/kaanersun) | 🔗 [LinkedIn](https://www.linkedin.com/in/ozerdo) |
