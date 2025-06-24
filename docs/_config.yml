@@ -8,4 +8,4 @@ minima:
   feed_show: false  # <-- this line disables the feed link (custom logic)
   skin: auto
   include_css:
-    - /assets/css/custom.css
+    - /kozahq/assets/css/custom.css
