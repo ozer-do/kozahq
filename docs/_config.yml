@@ -12,3 +12,10 @@ minima:
   skin: auto
   include_css:
     - /kozahq/assets/css/custom.css
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
