@@ -22,7 +22,7 @@ We're former executives who've helped scale high-tech startups from early stages
 
 - 15+ years in B2B software, networking, and workplace technology
 - Led product and marketing teams of 30+ in early- to late-stage startups
-- Executive roles at Aruba from IPO to $3B HPE acquisition, and at Celona from Series A to C growth
+- Early member at Aruba pre-IPO to $3B HPE acquisition, and at Celona from Series A to C growth
 
 
 ## Common Challenges We Solve
