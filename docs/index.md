@@ -1,29 +1,17 @@
 ---
-layout: home
 title: ""
+layout: default
+hide_footer: true
+
 ---
-
-<style>
-.site-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
-  background: white;
-  border-bottom: 1px solid #eaeaea;
-}
-.page-content {
-  padding-top: 70px;
-}
-</style>
-
 
 # Consulting Services for Pipeline Growth
 
 We're former executives who've helped scale high-tech startups from early stages to successful exits. We bring hands-on operational experience to build predictable growth engines that drive real pipeline.
 
+
 ---
+
 
 ## Experienced Operators, Not Just Consultants
 
@@ -42,7 +30,9 @@ We're former executives who've helped scale high-tech startups from early stages
 - Led product and marketing teams of 30+ in early- to late-stage startups
 - Executive roles at Aruba from IPO to $3B HPE acquisition, and at Celona from Series A to C growth
 
+
 ---
+
 
 ## Common Challenges We Solve
 
@@ -58,7 +48,9 @@ Financial models lack SaaS metrics and investor-ready narratives needed for your
 ### Founder-Led Sales Bottleneck
 Can't scale beyond founder selling to build repeatable, predictable revenue engines.
 
+
 ---
+
 
 ## Our Hands-On Approach
 
@@ -67,7 +59,9 @@ Can't scale beyond founder selling to build repeatable, predictable revenue engi
 ✓ Focus on measurable outcomes and ROI  
 ✓ Flexible engagement models (advisory, fractional, project-based)
 
+
 ---
+
 
 ## Core Service Areas
 
@@ -80,7 +74,9 @@ SaaS metrics modeling, runway planning, and investor-ready financial narratives
 ### ⚙️ Operational Excellence
 Scalable processes, cross-functional alignment, and operational infrastructure setup
 
+
 ---
+
 
 ## Proven Track Record
 
@@ -92,7 +88,9 @@ Scalable processes, cross-functional alignment, and operational infrastructure s
 | **10+** | Funding rounds participated in across portfolio |
 | **7x** | YoY growth in sales qualified opportunities achieved |
 
+
 ---
+
 
 ## Ready to Scale Your Growth Engine?
 
