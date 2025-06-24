@@ -5,7 +5,7 @@ title: ""
 
 ## Fractional Exec & Consulting Services for Pipeline Growth
 
-We're former executives who've helped scale high-tech startups from early stages to successful exits. We bring hands-on operational experience to build predictable growth engines that drive real pipeline for seed to series-C B2B SaaS/AI startups.
+We're former executives who've helped scale high-tech startups from early stages to successful exits. We bring hands-on operational experience to build predictable growth engines that drive real pipeline for **Seed to Series-C B2B SaaS/AI startups**.
 
 ---
 
@@ -31,7 +31,7 @@ We're former executives who've helped scale high-tech startups from early stages
 Despite happy customers, you can't systematically build repeatable sales motion.
 
 ### 🤔 Messaging Misalignment
-Your product value might resonate with buyers, but you still struggle with long sales cycles.
+Your messaging isn't landing with buyers, creating long sales cycles and low conversion rates.
 
 ### 💸 Fundraising Challenges
 Financial models lack clear growth metrics and investor-ready narratives for your next round.
