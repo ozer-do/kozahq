@@ -42,6 +42,8 @@ Financial models lack SaaS metrics and investor-ready narratives needed for your
 ### Founder-Led Sales Bottleneck
 Can't scale beyond founder selling to build repeatable, predictable revenue engines.
 
+---
+
 ## Our Hands-On Approach
 
 ✓ We don't just advise: we implement alongside your team  
@@ -61,6 +63,8 @@ SaaS metrics modeling, runway planning, and investor-ready financial narratives
 
 ### ⚙️ Operational Excellence
 Scalable processes, cross-functional alignment, and operational infrastructure setup
+
+---
 
 ## Proven Track Record
 
