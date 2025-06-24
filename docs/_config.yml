@@ -3,6 +3,7 @@ url: "https://ozer-do.github.io"
 
 theme: minima
 title: kozahq
+description: ""
 
 minima:
   social_links: []
@@ -17,3 +18,4 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      description: ""
