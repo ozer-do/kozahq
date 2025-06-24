@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Consulting Services for Pipeline Growth
+title: ""
 ---
 
 ## Experienced Operators, Not Just Consultants
