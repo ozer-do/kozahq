@@ -1,4 +1,7 @@
-# Consulting Services for Pipeline Growth
+---
+layout: home
+title: Consulting Services for Pipeline Growth
+---
 
 ## Experienced Operators, Not Just Consultants
 
