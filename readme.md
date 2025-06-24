@@ -1,4 +1,4 @@
-# KOZA HQ: Consulting Services for Pipeline Growth
+# Consulting Services for Pipeline Growth
 
 ## Experienced Operators, Not Just Consultants
 
