@@ -1,8 +1,6 @@
 ---
 title: ""
 layout: default
-hide_footer: true
-
 ---
 
 # Consulting Services for Pipeline Growth
