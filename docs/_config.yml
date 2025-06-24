@@ -1,4 +1,7 @@
 # remote_theme: "jekyll/minima@1e8a445"
+baseurl: "/kozahq"
+url: "https://ozer-do.github.io"
+
 theme: minima
 title: kozahq
 description: Consulting Services for Pipeline Growth
