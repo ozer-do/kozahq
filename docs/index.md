@@ -50,7 +50,7 @@ Can't scale beyond founder selling to build repeatable, predictable revenue engi
 
 ## Core Service Areas
 
-### 📈 GTM Strategy & Execution
+### 📈 Growth Strategy & Execution
 End-to-end go-to-market framework from ICP to campaign execution and pipeline building
 
 ### 💰 Financial Planning & Fundraising
