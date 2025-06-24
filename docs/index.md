@@ -50,11 +50,11 @@ Can't scale beyond founder selling to build predictable sources of revenue.
 
 ## Core Service Areas
 
-### 📈 Growth Strategy & Execution
-End-to-end go-to-market framework from ICP to campaign execution and pipeline building
+### 📈 Go-to-Market Strategy & Execution
+End-to-end growth framework from ideal customer profile to pipeline building
 
 ### 💰 Financial Planning & Fundraising
-SaaS metrics modeling, runway planning, and investor-ready financial narratives
+Growth metrics modeling, runway planning, and investor-ready financial narratives
 
 ### ⚙️ Operational Excellence
 Scalable processes, cross-functional alignment, and operational infrastructure setup
@@ -64,7 +64,7 @@ Scalable processes, cross-functional alignment, and operational infrastructure s
 
 | Metric | Achievement |
 |--------|------------|
-| **30+** | Years Combined SaaS Experience |
+| **30+** | Years Combined Tech Startup Experience |
 | **2** | Successful Acquisitions (Solvvy to Zoom, Aruba to HPE for $3B) |
 | **$10B+** | Combined enterprise value of companies scaled |
 | **10+** | Funding rounds participated in across portfolio |
@@ -75,5 +75,5 @@ Scalable processes, cross-functional alignment, and operational infrastructure s
 ## Ready to Scale Your Growth Engine?
 
 We're offering a complimentary strategy session to assess your current challenges and provide actionable next steps. Get in touch: 
-- **Kaan Ersun:**  📧 [Email](mailto:kaanersun@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kaanersun)
-- **Ozer Dondurmacioglu:** 📧 [Email](mailto:ozerdo@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ozerdo)
+- **Kaan Ersun:**  📧 [Email](mailto:kaanersun@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/kaanersun)
+- **Ozer Dondurmacioglu:** 📧 [Email](mailto:ozerdo@gmail.com) 🔗 [LinkedIn](https://www.linkedin.com/in/ozerdo)
