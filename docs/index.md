@@ -1,4 +1,4 @@
-# Consulting Services for Pipeline Growth
+## Consulting Services for Pipeline Growth
 
 We're former executives who've helped scale high-tech startups from early stages to successful exits. We bring hands-on operational experience to build predictable growth engines that drive real pipeline.
 
