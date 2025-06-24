@@ -9,7 +9,7 @@ title: Consulting Services for Pipeline Growth
 **Former COO at Solvvy (Acquired by Zoom)**
 
 - 15+ year SaaS experience
-- Early stage/fast growth startup experience: Talkdesk (on IPO track now), Solvvy (initial revenue to exit to Zoom)
+- Fast growth startup experience: Talkdesk (on IPO track), Solvvy (initial revenue to exit to Zoom)
 - Big Co experience - Salesforce, Zoom, Intuit
 - Stanford EE, Berkeley MBA
 
