@@ -39,3 +39,29 @@
     color: #777;
   }
   
+
+  /* Minimal Test Custom CSS */
+body {
+    background-color: #ffeeee !important;  /* Easy to spot */
+  }
+  
+  .site-header {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    border-bottom: 2px solid #333;
+    z-index: 999;
+    padding: 1rem;
+  }
+  
+  .page-content {
+    padding-top: 80px; /* Prevent content hiding behind fixed header */
+  }
+  
+  .site-footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
