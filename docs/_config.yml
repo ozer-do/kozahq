@@ -3,7 +3,7 @@ url: "https://ozer-do.github.io"
 
 theme: minima
 title: kozahq
-description: ""
+description: "Consulting Services for Pipeline Growth"
 
 minima:
   social_links: []
@@ -18,4 +18,3 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      description: ""
