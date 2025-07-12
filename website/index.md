@@ -11,14 +11,14 @@ We're former executives who've helped scale high-tech startups from early stages
 
 ## Experienced Operators, Not Just Consultants
 
-**Kaan Ersun:** Former COO at Solvvy (Acquired by Zoom)
+**[Kaan Ersun](https://www.linkedin.com/in/kaanersun):** Former COO at Solvvy (Acquired by Zoom)
 
 - 15+ year SaaS experience
 - Fast growth startup experience: Talkdesk (on IPO track), Solvvy (initial revenue to exit to Zoom)
 - Big Co experience - Salesforce, Zoom, Intuit
 - Stanford EE, Berkeley MBA
 
-**Ozer Dondurmacioglu:** Former VP at Nile, Celona & HPE Aruba
+**[Ozer Dondurmacioglu](https://www.linkedin.com/in/ozerdo):** Former VP at Nile, Celona & HPE Aruba
 
 - 15+ years in B2B software, networking, and workplace technology
 - Led product and marketing teams of 30+ in early- to late-stage startups
