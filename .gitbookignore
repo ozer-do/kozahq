@@ -1,3 +1,12 @@
 *
 !docs/
 !docs/**
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Editor files
+.vscode/
+.idea/
