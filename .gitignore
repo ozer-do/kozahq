@@ -17,3 +17,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Local notes folder
+_notes/

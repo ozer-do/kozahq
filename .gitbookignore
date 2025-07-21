@@ -10,3 +10,6 @@
 # Editor files
 .vscode/
 .idea/
+
+# Local notes folder
+_notes/
